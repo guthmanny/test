@@ -26,4 +26,4 @@ double average(double *data, long n)
 	for(i=0;i<n;i++) sum=sum+data[i];
 	return sum/n;
 }
-
+//test
